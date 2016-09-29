@@ -1,0 +1,32 @@
+body {
+  background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2016/01/Philippines-Wallpaper.jpg);
+  background-size: cover;
+}
+h1{
+  font-family: Oxygen;
+}
+h2 {
+  font-family: Oxygen;
+  color: white;
+  text-align: center;
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+li{
+  display: inLine;
+  color: white;
+}
+.black-box{
+  width: 325px;
+  height: 325px;
+  margin-top: 50px;
+  background: black;
+  vertical-align: center;
+}
+.flag-image{
+  border-radius: 50%;
+  margin-top: 40px;
+}
+
